@@ -1,2 +1,2 @@
 # HackronTeamDiamond
-This is repository for  Hackron.
+This is repository for  Hackron AI ML part.
