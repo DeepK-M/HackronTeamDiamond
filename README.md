@@ -49,6 +49,3 @@ The *Smart Dynamic Pricing System* is an AI-driven pricing solution designed for
 - Analyze stock level trends and make informed pricing decisions.
 - Apply optimal pricing with a single click.
 
-## Contributors
-- [Your Name](https://github.com/your-github)
-- [Team Members].
