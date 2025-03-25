@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+dotenv
+supabase
+pydantic
+pickle-mixin
+pandas
+xgboost
+scikit-learn
+plotly
+
