@@ -23,6 +23,38 @@ The *Smart Dynamic Pricing System* is an AI-driven pricing solution designed for
 - The dataset consists of *10,000 entries* with *18 unique products*.
 - Features include *MRP, competitor prices, discount percentage, margin, customer sentiment, seasonal impact, stock levels, and delivery distance*.
 
+- ## Sample Output Image
+
+Below is a sample preview of the dataset generated:
+
+<img src="./Sample_Image.png" alt="Sample Image" width="500"/>
+
+
+## How It Works
+
+- **Fixed MRP per Product:**\
+  Each product has a constant MRP throughout the dataset.
+
+- **Dynamic Pricing:**\
+  Prices for Blinkit, Zepto, and Instamart are computed by applying a discount to the MRP, ensuring all platform prices remain below the MRP.
+
+- **Additional Realistic Attributes:**\
+  The script includes fields for product margin, shelf life (derived from the product category), stock levels, and a random order timestamp to enhance the realism of the dataset.
+
+- **Randomized Data:**\
+  Details such as location, festive impact, delivery distance, and customer sentiment are randomized to simulate real-world variability.
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- **Python 3.x**
+- **pandas** library\
+  Install via:
+  ```bash
+  pip install pandas
+  ```
+
 ## Installation
 1. Clone the repository:
    sh
